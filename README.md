@@ -1,5 +1,4 @@
 # Quiz App Using Koltin in Android
-
 # ScreenShot
 
 | OutPut 1      | OutPut 2      | OutPut 3      |
